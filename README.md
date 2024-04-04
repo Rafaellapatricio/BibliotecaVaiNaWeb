@@ -1,7 +1,7 @@
 # Biblioteca_VaiNaWeb
 
-Repositório destinado a desafio **Salve os Livros** da t2 em Java, do Vai na Web
-
+Repositório destinado a desafio **Salve os Livros** da t2 em Java, do Vai na Web.
+**`Realizado por Rafaella Patrício e Vanessa Trajano`**
 A Aplicação permite cadastrar, editar, excluir os Livros da Bibioteca. como também cadastrar, editar e excluir Membros da Biblioteca e a por sua vez realizar consulta e empréstimo dos Livros.
 
 ## Estrutura do Projeto
