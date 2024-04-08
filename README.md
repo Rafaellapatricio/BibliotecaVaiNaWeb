@@ -6,6 +6,9 @@ Repositório destinado a desafio **Salve os Livros** da t2 em Java, do Vai na We
 
 A Aplicação permite cadastrar, editar, excluir os Livros da Bibioteca. como também cadastrar, editar e excluir Membros da Biblioteca e a por sua vez realizar consulta e empréstimo dos Livros.
 
+## UML do Projeto
+<img alt="uml do projeto" src="https://i.imgur.com/AqYKQeY.png">
+
 ## Estrutura do Projeto
 
 O projeto está organizado da seguinte forma:
